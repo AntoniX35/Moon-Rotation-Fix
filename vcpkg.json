@@ -1,0 +1,13 @@
+{
+  "name": "moonrotationfix",
+  "version-string": "1.0.0",
+  "description": "Do not rotate the moon when rotating the camera",
+  "homepage": "https://github.com/",
+  "license": "MIT",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "fmt",
+    "rsm-mmio",
+    "spdlog"
+  ]
+}
